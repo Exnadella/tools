@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@types/ua-parser-js": "^0.7.31",
-    "ua-parser-js": "^0.7.15"
+    "ua-parser-js": "^0.7.28"
   }
 }
