@@ -70,7 +70,7 @@
     "css-slam": "^2.1.2",
     "dom5": "^3.0.0",
     "gulp-if": "^2.0.2",
-    "html-minifier": "^3.5.10",
+    "html-minifier": "^4.0.0",
     "matcher": "^1.1.0",
     "multipipe": "^1.0.2",
     "mz": "^2.6.0",
