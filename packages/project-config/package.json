@@ -22,7 +22,7 @@
     "jsonschema": "^1.1.1",
     "minimatch-all": "^1.1.0",
     "plylog": "^1.0.0",
-    "winston": "^3.0.0"
+    "winston": "^3.3.0"
   },
   "devDependencies": {
     "polymer-analyzer": "^3.0.1",
