@@ -81,7 +81,7 @@
     "vinyl-fs": "^2.4.3",
     "web-component-tester": "^6.9.0",
     "yeoman-environment": "^1.5.2",
-    "yeoman-generator": "^3.1.1"
+    "yeoman-generator": "^4.11.0"
   },
   "devDependencies": {
     "@polymer/tools-common": "^2.0.0",
