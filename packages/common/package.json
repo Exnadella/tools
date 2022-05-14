@@ -19,9 +19,9 @@
     "format": "find src/ test/ -iname '*.ts' -o -iname '*.js' | xargs clang-format --style=file -i"
   },
   "dependencies": {
-    "depcheck": "^0.6.0",
+    "depcheck": "^0.8.0",
     "fs-extra": "^3.0.0",
-    "gulp-eslint": "^4.0.0",
+    "gulp-eslint": "^6.0.0",
     "gulp-mocha": "^6.0.0",
     "gulp-tslint": "^8.0.0",
     "gulp-typescript": "^3.0.0",
