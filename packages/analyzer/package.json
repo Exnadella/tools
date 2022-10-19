@@ -74,7 +74,7 @@
     "indent": "0.0.2",
     "is-windows": "^1.0.2",
     "jsonschema": "^1.1.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "parse5": "^4.0.0",
     "path-is-inside": "^1.0.2",
     "resolve": "^1.5.0",
