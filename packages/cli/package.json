@@ -80,7 +80,7 @@
     "vinyl": "^1.1.1",
     "vinyl-fs": "^2.4.3",
     "web-component-tester": "^6.9.0",
-    "yeoman-environment": "^1.5.2",
+    "yeoman-environment": "^2.0.4",
     "yeoman-generator": "^3.1.1"
   },
   "devDependencies": {
