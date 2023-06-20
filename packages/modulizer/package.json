@@ -65,7 +65,7 @@
     "polymer-workspaces": "^2.1.0",
     "recast": "^0.12.4",
     "rimraf": "^2.6.1",
-    "semver": "^5.3.0",
+    "semver": "^7.5.2",
     "source-map-support": "^0.4.15",
     "spdx-license-list": "^3.0.1",
     "tslib": "^1.7.1"
