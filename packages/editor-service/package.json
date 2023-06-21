@@ -42,7 +42,7 @@
     "polymer-analyzer": "^3.0.0",
     "polymer-linter": "^3.0.0",
     "polymer-project-config": "^4.0.0",
-    "semver": "^5.4.1",
+    "semver": "^7.5.2",
     "shady-css-parser": "^0.1.0",
     "split": "^1.0.0",
     "vscode-languageserver": "^4.1.1",
