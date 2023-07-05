@@ -20,7 +20,7 @@
     "prepublishOnly": "npm test"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.22.6",
     "@babel/plugin-external-helpers": "^7.0.0",
     "@babel/plugin-proposal-async-generator-functions": "^7.0.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
