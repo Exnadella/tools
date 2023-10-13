@@ -51,7 +51,7 @@
     "@babel/plugin-transform-template-literals": "^7.0.0",
     "@babel/plugin-transform-typeof-symbol": "^7.0.0",
     "@babel/plugin-transform-unicode-regex": "^7.0.0",
-    "@babel/traverse": "^7.0.0",
+    "@babel/traverse": "^7.23.2",
     "@polymer/esm-amd-loader": "^1.0.0",
     "@types/babel-types": "^6.25.1",
     "@types/babylon": "^6.16.2",
