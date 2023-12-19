@@ -57,7 +57,7 @@
     "cleankill": "^2.0.0",
     "freeport": "^1.0.4",
     "launchpad": "^0.7.0",
-    "selenium-standalone": "^6.7.0",
+    "selenium-standalone": "^6.21.0",
     "which": "^1.0.8"
   },
   "engines": {
