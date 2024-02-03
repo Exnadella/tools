@@ -63,7 +63,7 @@
     "chalk": "^2.4.1",
     "cleankill": "^2.0.0",
     "lodash": "^4.17.10",
-    "request": "^2.85.0",
+    "request": "^2.88.2",
     "sauce-connect-launcher": "^1.0.0",
     "temp": "^0.8.1",
     "uuid": "^3.2.1"
