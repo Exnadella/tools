@@ -28,7 +28,9 @@
     "test:watch": "tsc-then -- mocha \"lib/test/**/*_test.js\"",
     "test:watch:unit": "tsc-then -- mocha \"lib/test/unit/**/*_test.js\"",
     "test:watch:integration": "tsc-then -- mocha \"lib/test/integration/**/*_test.js\"",
-    "update-goldens": "tsc && UPDATE_POLYMER_CLI_GOLDENS=true mocha lib/test/integration/build_test.js || echo ''"
+    "update-goldens": "tsc && UPDATE_POLYMER_CLI_GOLDENS=true mocha lib/test/integration/build_test.js || echo ''",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "@octokit/rest": "^16.2.0",
@@ -81,7 +83,8 @@
     "vinyl-fs": "^2.4.3",
     "web-component-tester": "^6.9.0",
     "yeoman-environment": "^1.5.2",
-    "yeoman-generator": "^3.1.1"
+    "yeoman-generator": "^3.1.1",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@polymer/tools-common": "^2.0.0",
@@ -103,5 +106,6 @@
     "vinyl-fs-fake": "^1.1.0",
     "yeoman-assert": "^2.2.1",
     "yeoman-test": "^1.1.0"
-  }
+  },
+  "snyk": true
 }
