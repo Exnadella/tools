@@ -1,0 +1,271 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - web-component-tester > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > async > lodash
+    - polymer-build > babel-preset-minify > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > babel-preset-minify > lodash
+    - polymer-bundler > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-bundler > babel-types > lodash
+    - polymer-linter > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-linter > babel-types > lodash
+    - polymer-bundler > babel-generator > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-bundler > babel-generator > lodash
+    - polymer-bundler > babel-traverse > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-bundler > babel-traverse > lodash
+    - polymer-linter > babel-traverse > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-linter > babel-traverse > lodash
+    - polyserve > http-proxy-middleware > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > http-proxy-middleware > lodash
+    - web-component-tester > wct-sauce > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > wct-sauce > lodash
+    - web-component-tester > wd > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > wd > lodash
+    - polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-project-config > winston > async > lodash
+    - web-component-tester > wd > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > wd > async > lodash
+    - polymer-build > babel-preset-minify > babel-plugin-minify-dead-code-elimination > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polymer-build > babel-preset-minify >
+          babel-plugin-minify-dead-code-elimination > lodash
+    - polyserve > polymer-build > babel-preset-minify > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-build > babel-preset-minify > lodash
+    - polymer-bundler > babel-generator > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-bundler > babel-generator > babel-types > lodash
+    - polymer-bundler > babel-traverse > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-bundler > babel-traverse > babel-types > lodash
+    - polymer-linter > babel-traverse > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-linter > babel-traverse > babel-types > lodash
+    - polymer-build > polymer-bundler > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > polymer-bundler > babel-types > lodash
+    - polymer-build > polymer-bundler > babel-generator > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > polymer-bundler > babel-generator > lodash
+    - polymer-build > polymer-bundler > babel-traverse > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > polymer-bundler > babel-traverse > lodash
+    - web-component-tester > polyserve > http-proxy-middleware > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > polyserve > http-proxy-middleware > lodash
+    - web-component-tester > wct-sauce > sauce-connect-launcher > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > wct-sauce > sauce-connect-launcher > lodash
+    - polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-project-config > plylog > winston > async > lodash
+    - polymer-build > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > plylog > winston > async > lodash
+    - polymer-build > polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polymer-build > polymer-project-config > winston > async > lodash
+    - polyserve > polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-project-config > winston > async > lodash
+    - web-component-tester > wct-local > launchpad > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: web-component-tester > wct-local > launchpad > async > lodash
+    - web-component-tester > wct-sauce > sauce-connect-launcher > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > wct-sauce > sauce-connect-launcher > async >
+          lodash
+    - polyserve > polymer-build > babel-preset-minify > babel-plugin-minify-dead-code-elimination > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polyserve > polymer-build > babel-preset-minify >
+          babel-plugin-minify-dead-code-elimination > lodash
+    - web-component-tester > polyserve > polymer-build > babel-preset-minify > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > babel-preset-minify
+          > lodash
+    - polymer-build > polymer-bundler > babel-generator > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polymer-build > polymer-bundler > babel-generator > babel-types >
+          lodash
+    - polymer-build > polymer-bundler > babel-traverse > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polymer-build > polymer-bundler > babel-traverse > babel-types >
+          lodash
+    - polyserve > polymer-build > polymer-bundler > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-build > polymer-bundler > babel-types > lodash
+    - polyserve > polymer-build > polymer-bundler > babel-generator > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-build > polymer-bundler > babel-generator > lodash
+    - polyserve > polymer-build > polymer-bundler > babel-traverse > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-build > polymer-bundler > babel-traverse > lodash
+    - polymer-build > polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polymer-build > polymer-project-config > plylog > winston > async >
+          lodash
+    - polyserve > polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-project-config > plylog > winston > async > lodash
+    - polyserve > polymer-build > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: polyserve > polymer-build > plylog > winston > async > lodash
+    - polyserve > polymer-build > polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polyserve > polymer-build > polymer-project-config > winston > async >
+          lodash
+    - web-component-tester > polyserve > polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-project-config > winston >
+          async > lodash
+    - web-component-tester > polyserve > polymer-build > babel-preset-minify > babel-plugin-minify-dead-code-elimination > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > babel-preset-minify
+          > babel-plugin-minify-dead-code-elimination > lodash
+    - polyserve > polymer-build > polymer-bundler > babel-generator > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polyserve > polymer-build > polymer-bundler > babel-generator >
+          babel-types > lodash
+    - polyserve > polymer-build > polymer-bundler > babel-traverse > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polyserve > polymer-build > polymer-bundler > babel-traverse >
+          babel-types > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-bundler > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > polymer-bundler >
+          babel-types > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-bundler > babel-generator > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > polymer-bundler >
+          babel-generator > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-bundler > babel-traverse > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > polymer-bundler >
+          babel-traverse > lodash
+    - polyserve > polymer-build > polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          polyserve > polymer-build > polymer-project-config > plylog > winston
+          > async > lodash
+    - web-component-tester > polyserve > polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-project-config > plylog >
+          winston > async > lodash
+    - web-component-tester > polyserve > polymer-build > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > plylog > winston >
+          async > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-project-config > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build >
+          polymer-project-config > winston > async > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-bundler > babel-generator > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > polymer-bundler >
+          babel-generator > babel-types > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-bundler > babel-traverse > babel-types > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build > polymer-bundler >
+          babel-traverse > babel-types > lodash
+    - web-component-tester > polyserve > polymer-build > polymer-project-config > plylog > winston > async > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          web-component-tester > polyserve > polymer-build >
+          polymer-project-config > plylog > winston > async > lodash
+  'npm:lodash:20180130':
+    - web-component-tester > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: 'npm:lodash:20180130'
+        path: web-component-tester > lodash
+    - web-component-tester > stacky > lodash:
+        patched: '2024-04-22T10:47:29.829Z'
+        id: 'npm:lodash:20180130'
+        path: web-component-tester > stacky > lodash
