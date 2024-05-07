@@ -29,7 +29,7 @@
     "command-line-usage": "^5.0.2",
     "doctrine": "^2.0.0",
     "escodegen": "^1.9.0",
-    "fs-extra": "^6.0.1",
+    "fs-extra": "^11.2.0",
     "glob": "^7.1.2",
     "minimatch": "^3.0.4",
     "polymer-analyzer": "^3.0.2",
