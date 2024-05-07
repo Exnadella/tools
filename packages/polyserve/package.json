@@ -37,7 +37,7 @@
     "@types/parse5": "^2.2.34",
     "@types/pem": "^1.8.1",
     "@types/resolve": "0.0.6",
-    "@types/serve-static": "^1.7.31",
+    "@types/serve-static": "^1.15.7",
     "@types/spdy": "^3.4.1",
     "bower-config": "^1.4.1",
     "browser-capabilities": "^1.0.0",
