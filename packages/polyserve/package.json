@@ -42,7 +42,7 @@
     "bower-config": "^1.4.1",
     "browser-capabilities": "^1.0.0",
     "command-line-args": "^5.0.2",
-    "command-line-usage": "^5.0.5",
+    "command-line-usage": "^7.0.1",
     "compression": "^1.6.2",
     "content-type": "^1.0.2",
     "cors": "^2.8.4",
