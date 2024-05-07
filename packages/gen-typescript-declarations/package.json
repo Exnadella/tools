@@ -21,7 +21,7 @@
     "@types/command-line-args": "^5.0.0",
     "@types/command-line-usage": "^5.0.1",
     "@types/doctrine": "0.0.3",
-    "@types/fs-extra": "^5.0.0",
+    "@types/fs-extra": "^11.0.4",
     "@types/glob": "^5.0.35",
     "@types/parse5": "^2.2.34",
     "babylon": "^7.0.0-beta.42",
