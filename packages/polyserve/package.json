@@ -48,7 +48,7 @@
     "cors": "^2.8.4",
     "escape-html": "^1.0.3",
     "express": "^4.8.5",
-    "find-port": "^1.0.1",
+    "find-port": "^3.0.0",
     "http-proxy-middleware": "^0.17.2",
     "lru-cache": "^4.0.2",
     "mime": "^2.3.1",
