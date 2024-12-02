@@ -60,7 +60,7 @@
     "requirejs": "^2.3.4",
     "resolve": "^1.5.0",
     "send": "^0.16.2",
-    "spdy": "^3.3.3"
+    "spdy": "^4.0.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.4",
