@@ -52,7 +52,7 @@
     "bower-json": "^0.8.1",
     "bower-logger": "^0.2.2",
     "chalk": "^2.4.2",
-    "chokidar": "^1.7.0",
+    "chokidar": "^3.0.0",
     "command-line-args": "^5.0.2",
     "command-line-commands": "^2.0.1",
     "command-line-usage": "^5.0.5",
